@@ -321,6 +321,12 @@ grok_reg-protocol_cpa/
 
 ---
 
+## 参考与引用
+
+- [LINUX DO 讨论帖](https://linux.do/t/topic/2561088)
+
+---
+
 ## 许可与声明
 
 本项目仅供学习与技术研究。请遵守 xAI / Cloudflare 等相关服务条款，自行承担使用风险。
