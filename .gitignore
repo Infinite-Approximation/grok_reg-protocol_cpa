@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+dist/
+.DS_Store
+
+# secrets / local runtime
+config.json
+config.local.json
+config.json.bak*
+.env
+accounts_*.txt
+emails_used.txt
+emails_error.txt
+mail_credentials.txt
+cpa_auths/
+cookies/
+screenshots/
+debug_signup/
+logs/
+*.log
+*.bak
+
+# editor / local
+.idea/
+.vscode/
+*.swp
