@@ -1,5 +1,8 @@
 # grok_reg-protocol_cpa
 
+> **致谢**  
+> 感谢 [https://api.jinkundong.store](https://api.jinkundong.store) 对本项目的大力支持。该网站是一个 API 中转站，支持目前主流编码模型，欢迎使用。
+
 基于 **Chromium + DrissionPage + turnstilePatch** 的 Grok 账号注册机。
 
 注册成功后自动：
